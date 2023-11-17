@@ -8,6 +8,7 @@ Funcao para primeiro teste do processo seletivo para vaga de estagio
    
 
 
+    Tenha o nodejs instalado na sua maquina
 
     Como baixar o projeto:
         git clone https://github.com/LukasLimalkl/escribo-teste1.git
