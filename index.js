@@ -12,4 +12,4 @@ function calcMultiplos(num) {
 const numeroTeste = 10;
 const resultado = calcMultiplos(numeroTeste);
 
-console.log(`O somatório de todos os números menores que ${numeroTeste} e divisíveis por 3 ou 5 é: ${resultado}`);
+console.log(`O somatório de todos os números menores que ${numeroTeste} e divisíveis por 3 ou 5 é:  ${resultado}`);
